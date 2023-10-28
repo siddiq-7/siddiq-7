@@ -1,6 +1,7 @@
+![logo](https://github.com/siddiq-7/siddiq-7/blob/main/Mohammed%20Siddiq.png)
 <h1 align="center">Hi 👋, I'm Mohammed Siddiq</h1>
 <h3 align="center">A Passionate Software Developer from India</h3>
-<img align="right" alt="coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_pvDM2MRviYQrujhsZSj9uVooLTtNkJyCeA&usqp=CAU" >
+<!-- <!-- <img align="right" alt="coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_pvDM2MRviYQrujhsZSj9uVooLTtNkJyCeA&usqp=CAU" >  -->
 <br><br>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=siddiq-7&label=Profile%20views&color=0e75b6&style=flat" alt="siddiq-7" /> </p>
