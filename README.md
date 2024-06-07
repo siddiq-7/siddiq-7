@@ -1,4 +1,4 @@
-![logo](https://github.com/siddiq-7/siddiq-7/blob/main/Mohammed%20Siddiq.png)
+![logo](https://github.com/siddiq-7/siddiq-7/blob/main/new%20upload.png)
 <h1 align="center">Hi 👋, I'm Mohammed Siddiq</h1>
 <h3 align="center">A Passionate Data Scientist from India</h3>
 <!-- <!-- <img align="right" alt="coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_pvDM2MRviYQrujhsZSj9uVooLTtNkJyCeA&usqp=CAU" >  -->
